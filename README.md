@@ -8,7 +8,7 @@ This repository contains the files for the module 18 homework assignment: blockc
 
 ### Primary Code
 
-All of the primary code can be found in the Jupyter notebook titled "pychain.ipynb", which is located in this folder.
+All of the primary code can be found in the Python file titled "pychain.py", which is located in this folder.
 
 ### Images
 
